@@ -7,7 +7,7 @@
                     <li>
                         <a href=" {{ route('newprod')}}">New Product</a>
                     </li>
-                    <li><a href="">Edit Product</a>
+                    <li><a href="{{ route('mod') }}">Edit Product</a>
                     </li>
                     <li>
                         <a href="">Rates<i class="fas fa-caret-right"></i></a>
